@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Registration Log</string>
+    <string name="name">name please</string> <!--@String/name sayesinde buraya yazdıklarımız MainActivity sayfasına gidiyor -->
+    <string name="surname">surname please</string>
+    <string name="age">age please</string>
+    <string name="city">city please</string>
+    <string name="save">Adınızı giriniz</string>
+    <string name="show">Adınızı giriniz</string>
+    <string name="update">Adınızı giriniz</string>
+    <string name="delete">Adınızı giriniz</string>
+    <string name="clear">Adınızı giriniz</string>
+
 </resources>
